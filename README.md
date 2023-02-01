@@ -1,20 +1,16 @@
-### Najman Husaini
-#### University of Utah 2025
-#### Aspiring game dev
+**Real Name:** Najman Husaini  
+**Studying:** Game Dev 🎮 at University of Utah 2025  
+**From:** <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.emojiterra.com%2Fgoogle%2Fandroid-11%2F128px%2F1f1f2-1f1fe.png&f=1&nofb=1&ipt=69b7c02ef6c91321ba2abaf0b6c54c4ceb73fc7d8e344caea91e49ffa0eb8220&ipo=images" width="20"/> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.emojiterra.com%2Fgoogle%2Fandroid-11%2F128px%2F1f1f2-1f1fe.png&f=1&nofb=1&ipt=69b7c02ef6c91321ba2abaf0b6c54c4ceb73fc7d8e344caea91e49ffa0eb8220&ipo=images" width="20"/>  
+**Pronouns:** He/Him  
+**Contact Me:** Through email
 
-<!--
-**manglemix/manglemix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Working on:** Distributed database for small networks in Rust  
+**Games:** [Itch](https://manglemix.itch.io)  
+**Looking for:** Motivated vector artist and animator for a fighting game  
 
-Here are some ideas to get you started:
+**Currently Learning:** The pain of C++  
+**Favorite languages:** Rust 🦀, Python 🐍, C#  
+**Favorite Game Engine:** Godot  
+**Favorite Games:** Rimworld, Oxygen Not Included, Hades  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-#### [Profile Pic](https://www.pixiv.net/en/artworks/77058190)
+**Profile Pic:** [Pixiv](https://www.pixiv.net/en/artworks/77058190)  
