@@ -1,4 +1,6 @@
-### Hi there 👋
+### Najman Husaini
+#### University of Utah 2025
+#### Aspiring game dev
 
 <!--
 **manglemix/manglemix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### [Profile Pic](https://www.pixiv.net/en/artworks/77058190)
