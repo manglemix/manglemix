@@ -4,7 +4,7 @@
 **Pronouns:** He/Him  
 **Contact Me:** Through email
 
-**Working on:** Distributed database for small networks in Rust  
+**Working on:** WebSocket API for Bola
 **Games:** [Itch](https://manglemix.itch.io)  
 **Looking for:** Motivated vector artist and animator for a fighting game  
 
