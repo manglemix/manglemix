@@ -4,7 +4,7 @@
 **Pronouns:** He/Him  
 **Contact Me:** Through email
 
-**Working on:** WebSocket API for Bola  
+**Working on:** Adding Multiplayer to Bola  
 **Games:** [Itch](https://manglemix.itch.io)  
 **Looking for:** Motivated vector artist and animator for a fighting game  
 
