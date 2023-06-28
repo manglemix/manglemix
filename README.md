@@ -4,9 +4,9 @@
 **Pronouns:** He/Him  
 **Contact Me:** Through email
 
-**Working on:** Adding Multiplayer to Bola  
+**Working on:** A Multiplayer FPS PVP Scavenging Game  
 **Games:** [Itch](https://manglemix.itch.io)  
-**Looking for:** Motivated vector artist and animator for a fighting game  
+**Looking for:** Rust Backend Dev, 3D Modellers (I'm offering creative liberty), Sound Designer  
 
 **Currently Learning:** The pain of C++  
 **Favorite languages:** Rust 🦀, Python 🐍, C#  
