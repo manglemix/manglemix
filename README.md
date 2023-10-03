@@ -10,6 +10,4 @@
 **Currently Learning:** The pain of C++  
 **Favorite languages:** Rust 🦀, Python 🐍, C#  
 **Favorite Game Engine:** Godot  
-**Favorite Games:** Rimworld, Oxygen Not Included, Hades  
-
-**Profile Pic:** [Pixiv](https://www.pixiv.net/en/artworks/77058190)  
+**Favorite Games:** Rimworld, Oxygen Not Included, Hades 
