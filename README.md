@@ -7,7 +7,7 @@
 **Games:** [Itch](https://manglemix.itch.io)  
 **Looking for:** Rust Backend Dev, 3D Modelers (I'm offering creative liberty), Sound Designer  
 
-**Currently Learning:** The pain of C++  
+**Currently Learning:** Web Development II  
 **Favorite languages:** Rust 🦀, Python 🐍, C#  
 **Favorite Game Engine:** Godot  
 **Favorite Games:** Rimworld, Oxygen Not Included, Hades 
