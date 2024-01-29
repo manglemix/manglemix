@@ -3,7 +3,7 @@
 **Pronouns:** He/Him  
 **Contact Me:** Through email
 
-**Working on:** A Multiplayer FPS PVP/E Scavenging Game  
+**Working on:** Autonomous robotics for Utah Student Robotics  
 **Games:** [Itch](https://manglemix.itch.io)  
 **Looking for:** Rust Backend Dev, 3D Modelers (I'm offering creative liberty), Sound Designer  
 
