@@ -6,7 +6,7 @@
 **Working on:** Autonomous robotics for Utah Student Robotics  
 **Games:** [Itch](https://manglemix.itch.io)  
 
-**Currently Learning:** Mobile App Development 
+**Currently Learning:** Databases  
 **Favorite languages:** Rust 🦀, Python 🐍, C#  
 **Favorite Game Engine:** Godot  
 **Favorite Games:** Rimworld, Oxygen Not Included, Hades 
