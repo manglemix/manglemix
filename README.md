@@ -3,10 +3,10 @@
 **Pronouns:** He/Him  
 **Contact Me:** Through email
 
-**Working on:** Autonomous robotics for Utah Student Robotics  
+**Working on:** Obstacle Detection for Utah Student Robotics  
 **Games:** [Itch](https://manglemix.itch.io)  
 
-**Currently Learning:** Databases  
+**Currently Learning:** Parallel Computing  
 **Favorite languages:** Rust 🦀, Python 🐍, C#  
 **Favorite Game Engine:** Godot  
-**Favorite Games:** Rimworld, Oxygen Not Included, Hades 
+**Favorite Games:** Dyson Sphere Program, Factorio, Rimworld, Oxygen Not Included, Hades 
