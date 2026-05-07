@@ -3,7 +3,6 @@
 **Pronouns:** He/Him  
 **Contact Me:** Through email
 
-**Working on:** Obstacle Detection for Utah Student Robotics  
 **Games:** [Itch](https://manglemix.itch.io)  
 
 **Favorite languages:** Rust 🦀, Python 🐍, C#  
